@@ -5,7 +5,7 @@ from cos_backend import COSBackend
 
 cos = COSBackend()
 
-url_rmq = 'amqp://lsswhkpi:DROG-7JFX0xR9tbXLRKSVGCFNNIzMJ-J@caterpillar.rmq.cloudamqp.com/lsswhkpi'
+url_rmq = ''
 
 
 def map_count_words(bucket_name, nom_fitxer, inici, offset):
